@@ -34,3 +34,7 @@ function showTask(){
     itemsList.innerHTML = localStorage.getItem("data");
 }
 showTask(); 
+function RemoveTasks()
+{
+    itemsList.innerHTML = "";
+}

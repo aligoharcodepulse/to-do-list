@@ -57,6 +57,18 @@ button{
     border-radius: 25px;
     color: whitesmoke;
 }
+.btn{
+    border: none;
+    outline: none;
+    padding: 16px 50px;
+    background: rgb(245, 109, 47);
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 25px;
+    color: whitesmoke;
+    display: block;
+    margin: auto;
+}
 
 ul li{
     list-style: none;
