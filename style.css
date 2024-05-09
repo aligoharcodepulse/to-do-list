@@ -125,7 +125,7 @@ ul li span:hover{
         font-size: 15px;
     }
     .row{
-        padding-left: 15px;
+        padding-left: 12px;
         justify-content: center;
         align-items: center;
     }
@@ -133,14 +133,16 @@ ul li span:hover{
 
 @media only screen and (max-width: 480px) {
     .list{
-        padding: 20px;
+        padding: 12px;
     }
     ul li{
-        font-size: 12px;
+        font-size: 10px;
     }
     .row{
-        padding-left: 15px;
+        padding-left: 90px;
         justify-content: center;
         align-items: center;
+        width: 70%;
+        margin-left: 0px;
     }
 }
